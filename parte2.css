@@ -1,0 +1,14 @@
+*{margin:0px;
+  padding:0px;
+}
+
+img{width:100px;
+	height:80px;
+	padding:30px;
+	}
+.coder{
+	display: inline-block;
+}
+p{
+	float: left;
+}
